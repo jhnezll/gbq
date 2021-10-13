@@ -18,11 +18,6 @@ export default function Home() {
               </div>
           </div>
 
-          {/*Subtitle*/}
-          <div className="w-screen justify-center text-center py-10 bg-gradient-to-b from-blue-400 to white">
-              <h1 className="justify-center text-2xl font-semibold px-12 lg:px-64">Dealing with the issues of drugs abuse is not an easy task. It effects both the abuser and the people they care about. Don't feel ashamed to reach out for help. We are here to help!</h1>
-          </div>
-
           {/*Cards*/}
           <div className="width-screen py-6 grid md:grid-cols-2 gap-2 lg:grid-cols-4 gap-4">
               <Card
