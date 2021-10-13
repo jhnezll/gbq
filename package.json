@@ -20,5 +20,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Evan Caston",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/jhnezll/GetBetterQuick.git"
 }
