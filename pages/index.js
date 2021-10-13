@@ -19,7 +19,7 @@ export default function Home() {
           </div>
 
           {/*Cards*/}
-          <div className="width-screen py-6 grid md:grid-cols-2 gap-2 lg:grid-cols-4 gap-4">
+          <div className="width-screen py-12 grid md:grid-cols-2 gap-2 lg:grid-cols-4 gap-4">
               <Card
                 img="https://cdn.dribbble.com/users/844597/screenshots/15743405/media/1dce97e1f8152d6d6ffa6f35080f1a09.png?compress=1&resize=1200x900"
                 alt="Alcohol"
