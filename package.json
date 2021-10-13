@@ -21,5 +21,13 @@
   "main": "index.js",
   "author": "Evan Caston",
   "license": "MIT",
-  "repository": "https://github.com/jhnezll/GetBetterQuick.git"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhnezll/GetBetterQuick.git"
+  },
+  "description": "This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).",
+  "bugs": {
+    "url": "https://github.com/jhnezll/GetBetterQuick/issues"
+  },
+  "homepage": "https://github.com/jhnezll/GetBetterQuick#readme"
 }
